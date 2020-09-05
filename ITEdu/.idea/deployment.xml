@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.3.19:50001">
+    <serverData>
+      <paths name="root@127.0.0.1:50001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_181" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.3.19:50001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/docker/python3.5-ssh" local="D:/Software/Docker/project" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
